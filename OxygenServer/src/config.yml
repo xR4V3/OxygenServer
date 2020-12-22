@@ -1,0 +1,18 @@
+Oxygen:
+#Oxygen-Rewards
+ DailyRewards:
+  open-gui-dailyrewards: true # Открывать Gui наград при входе на сервер.
+#Oxygen-Groups
+ Groups:
+  disable-pvp-members: true # Отключить урон по участникам группы.
+  exp:
+   exp-per-members: true # Делить опыт между участниками группы.
+   members-radius: 0 #Между членами группы в радиусе. -1(неограниченно) 0(Делить,если участник в одном мире с вами)
+  color-nametag: '&a' #Присвоить цвет участникам группы. -1(нет)
+  member-join-notify-sound: true #Включить звуковое опещение,если участник группы зашел на сервер.
+  member-leave-notify-sound: true #Включить звуковое опещение,если участник группы вышел из сервера.
+#Oxygen-Friends
+ Friends:
+  disable-pvp-friends: false # Отключить урон по друзьям.
+  color-nametag: '&9' #Присвоить цвет друзьям. -1(нет) 
+color-nametag-priority: "groups" # groups или friends. Если игрок находиться в друзьях и в группе,то установленная категория перекрывает другую.

@@ -1,0 +1,6 @@
+name: OxygenServer
+author: xR4V3
+main: xR4V3.oxygen.Main
+version: 1.0
+commands:
+  npc:

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/.minecraft/mods/1.12.2/oxygen-core-1.12.2-0.11.4.jar"/>
+	<classpathentry kind="lib" path="C:/.minecraft/mods/1.12.2/oxygen-daily-rewards-1.12.2-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/.minecraft/mods/1.12.2/oxygen-friends-list-1.12.2-0.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/.minecraft/mods/1.12.2/oxygen-groups-1.12.2-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Администратор/Desktop/1.12.2 server/server.jar"/>
+	<classpathentry kind="lib" path="C:/.minecraft/mods/1.12.2/CustomNPCs_1.12.230Jan19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
