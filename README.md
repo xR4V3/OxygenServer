@@ -11,3 +11,4 @@
  In the DEV:
 - Integration with Custom NPC
 - Distribution of drop from mobs between the members of the group.
+- Adding a custom drop for Custom NPC.
