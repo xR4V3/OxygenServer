@@ -15,7 +15,7 @@ import xR4V3.oxygen.NpcData;
 /**
  * @author xR4V3
  *
- * @vk https://vk.com/kup4y
+ * @vk https://vk.com/cr1p_walk
  **/
 
 public class NPCEvents implements Listener {

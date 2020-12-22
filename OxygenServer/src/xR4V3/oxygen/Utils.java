@@ -23,7 +23,7 @@ import austeretony.oxygen_groups.server.GroupsManagerServer;
 /**
  * @author xR4V3
  *
- * @vk https://vk.com/kup4y
+ * @vk https://vk.com/cr1p_walk
  **/
 
 public class Utils {

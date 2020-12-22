@@ -20,7 +20,7 @@ import xR4V3.oxygen.Utils;
 /**
  * @author xR4V3
  *
- * @vk https://vk.com/kup4y
+ * @vk https://vk.com/cr1p_walk
  **/
 
 public class NPCCommands implements CommandExecutor {
